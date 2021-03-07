@@ -1,0 +1,552 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    color: #000000;
+}
+
+.navbar {
+    font-family: 'Montserrat', sans-serif;
+    padding: 45px !important;
+}
+
+.nav-item a, .nav-item a:visited, .nav-item a:hover {
+    font-family: 'Montserrat', sans-serif !important;
+    font-weight: 600 !important;
+    font-size: 16px !important;
+    padding: 13px 57px !important;
+    white-space: nowrap;
+    color: #000000;
+    display: inline-block
+}
+
+h1 {
+    font-family: "Frank Ruhl Libre";
+    font-weight: 500;
+    font-size: 64px !important;
+}
+
+.green_stair_step {
+    position: relative;
+}
+
+.green_stair_step::after {
+    position: absolute;
+    content: '';
+    width: 100%;
+    height: 21.87px;
+    background-image: url(./img/green_stair_step.svg);
+    background-repeat: repeat-x;
+    background-size: cover;
+    left: 0;
+    bottom: -21.87px;
+}
+
+h2 {
+    font-family: "Frank Ruhl Libre";
+    font-weight: 500;
+    font-size: 37px;
+}
+
+.orange_stair_step {
+    position: relative;
+}
+
+.orange_stair_step::after {
+    position: absolute;
+    content: '';
+    width: 100%;
+    height: 21.87px;
+    background-image: url(./img/orange_stair_step.svg);
+    background-repeat: repeat-x;
+    background-size: cover;
+    left: 0;
+    bottom: -21.87px;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.cta_btn, .cta_btn:hover, .cta_btn:visited {
+    width: 212px;
+    max-width: 212px;
+    min-height: 48px;
+    display: inline-block;
+    border-radius: 24px;
+    background: #000;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 21px;
+    text-align: center !important;
+    color: #fff !important;
+    padding: 13px 57px !important;
+    white-space: nowrap;
+    border: 0;
+    text-decoration: none;
+}
+
+.cta_btn:hover {
+    background-color: #27C17D !important;
+}
+
+.has_hero_image {
+    width: 442px;
+    height: auto;
+    background: transparent;
+}
+
+.bg {
+    background-color: #fff;
+}
+
+.bg-a {
+    background-color: #FCF8F5;
+}
+
+.bg-b {
+    background-color: #FAFAFA;
+}
+
+.bg-c {
+    background-color: #F4FCF8;
+}
+
+.bg-d {
+    background-color: #000000;
+}
+
+/* border-radius */
+
+.br-20 {
+    border-radius: 20px;
+}
+
+.form-control {
+    max-height: 58px !important;
+    background: #fbfbfb !important;
+    border: 1px solid #707070 !important;
+    border-radius: 0 !important;
+}
+
+.form-control::placeholder {
+    font-family: 'Montserrat', sans-serif !important;
+    font-weight: 500 !important;
+    font-size: 18px !important;
+    text-align: left !important;
+    color: #676767 !important;
+}
+
+/* drop shadow */
+
+.ds-1 {
+    filter: drop-shadow(0px 0px 12px rgba(0, 0, 0, 0.04));
+}
+
+.process_section {
+    background-image: url('./img/Group 233.svg');
+    background-position: center center;
+    background-size: initial;
+    background-repeat: no-repeat;
+}
+
+.process {
+    background: #fff;
+    filter: drop-shadow(0px 0px 12px rgba(0, 0, 0, 0.11));
+    border-radius: 15px;
+    padding: 24px;
+    margin: 45px;
+}
+
+.process img {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 15px;
+}
+
+.process h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    color: #27c17d;
+    margin-bottom: 54px;
+}
+
+.process p {
+    width: 90%;
+    margin-bottom: 34px;
+}
+
+.stat_title {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 57.6px;
+    text-align: left;
+    color: #27c17d;
+    margin-bottom: 30px;
+}
+
+footer {
+    background-color: #000000;
+    color: #fff;
+}
+
+footer a, footer a:visited {
+    color: #fff !important;
+    text-decoration: none;
+    display: inline-block
+}
+
+cite {
+    font-style: normal;
+    display: inline-block
+}
+
+/* text sizes */
+
+.fs-16 {
+    font-size: 16px;
+}
+
+.fs-18 {
+    font-size: 18px;
+}
+
+.fs-24 {
+    font-size: 24px;
+}
+
+.fs-30 {
+    font-size: 30px;
+}
+
+.fs-36 {
+    font-size: 36px;
+}
+
+.fs-42 {
+    font-size: 42px;
+}
+
+.fs-48 {
+    font-size: 48px;
+}
+
+.fs-60 {
+    font-size: 60px;
+}
+
+/* offsets */
+
+.pt-15 {
+    padding-top: 15px;
+}
+
+.pr-15 {
+    padding-right: 15px;
+}
+
+.pb-15 {
+    padding-bottom: 15px;
+}
+
+.pl-15 {
+    padding-left: 15px;
+}
+
+.p-20 {
+    padding: 20px !important;
+}
+
+.mb-80 {
+    margin-bottom: 80px;
+}
+
+.mt-15 {
+    margin-top: 15px;
+}
+
+.mr-15 {
+    margin-right: 15px;
+}
+
+.mb-15 {
+    margin-bottom: 15px;
+}
+
+.ml-15 {
+    margin-left: 15px;
+}
+
+.pt-30 {
+    padding-top: 30px;
+}
+
+.pr-30 {
+    padding-right: 30px;
+}
+
+.pb-30 {
+    padding-bottom: 30px;
+}
+
+.pl-30 {
+    padding-left: 30px;
+}
+
+.mt-30 {
+    margin-top: 30px;
+}
+
+.mr-30 {
+    margin-right: 30px;
+}
+
+.mb-30 {
+    margin-bottom: 30px;
+}
+
+.ml-30 {
+    margin-left: 30px;
+}
+
+.pt-60 {
+    padding-top: 60px;
+}
+
+.pr-60 {
+    padding-right: 60px;
+}
+
+.pb-60 {
+    padding-bottom: 60px;
+}
+
+.pl-60 {
+    padding-left: 60px;
+}
+
+.mt-60 {
+    margin-top: 60px;
+}
+
+.mr-60 {
+    margin-top: 60px;
+}
+
+.mb-60 {
+    margin-bottom: 60px;
+}
+
+.ml-60 {
+    margin-left: 60px;
+}
+
+.p-90 {
+    padding: 90px !important;
+}
+
+.pt-90 {
+    padding-top: 90px;
+}
+
+.pr-90 {
+    padding-right: 90px;
+}
+
+.pb-90 {
+    padding-bottom: 90px;
+}
+
+.pl-90 {
+    padding-left: 90px;
+}
+
+.mt-90 {
+    margin-top: 90px;
+}
+
+.mr-90 {
+    margin-right: 90px;
+}
+
+.mb-90 {
+    margin-bottom: 90px;
+}
+
+.ml-90 {
+    margin-left: 90px;
+}
+
+.pt-90 {
+    padding-top: 90px;
+}
+
+.pr-90 {
+    padding-right: 90px;
+}
+
+.pb-45 {
+    padding-bottom: 45px;
+}
+
+.pl-45 {
+    padding-left: 45px;
+}
+
+.mt-45 {
+    margin-top: 45px;
+}
+
+.mr-45 {
+    margin-right: 45px;
+}
+
+.mb-45 {
+    margin-bottom: 45px;
+}
+
+.ml-45 {
+    margin-left: 45px;
+}
+
+/* Small devices (landscape phones, 576px and up) */
+
+@media screen and (min-width: 320px) and (max-width: 576px) {
+    .navbar ul {
+        white-space: nowrap;
+        display: inline-block;
+        width: 100%;
+    }
+    .navbar ul li {
+        display: inline-block;
+        width: 50%;
+    }
+    .nav-item a, .nav-item a:visited, .nav-item a:hover {
+        padding: 13px 24px !important;
+        text-align: center;
+    }
+    .nav-item a.cta_btn {
+        width: 100%;
+    }
+    .nav-item {
+        width: 50%;
+    }
+    /* .navbar-brand {
+        width: 100%;
+    } */
+    .navbar {
+        padding: 30px !important;
+        width: 100%;
+    }
+    .navbar {
+        width: 100%;
+    }
+    .navbar+.container {
+        text-align: center !important;
+    }
+    h1 {
+        font-size: 36px !important;
+    }
+    h1+span {
+        display: inline-block;
+        width: 61%;
+        text-align: center;
+        margin-bottom: 15px;
+    }
+    h1+span+.cta_btn {
+        margin-bottom: 30px;
+    }
+    h2 {
+        font-size: 24px !important;
+    }
+    h2 br {
+        display: none;
+    }
+    h1 br {
+        display: none !important;
+    }
+    .has_hero_image {
+        width: initial;
+    }
+    .process {
+        background: #fff;
+        filter: none;
+        border-radius: initial;
+        padding: 24px;
+        margin: initial;
+    }
+}
+
+/* Medium devices (tablets, 768px and up) */
+
+@media (min-width: 768px) {
+    h1 {
+        font-size: 36px !important;
+    }
+    /* h1+span {
+        display: inline-block;
+        width: 61%;
+        text-align: center;
+        margin-bottom: 15px;
+    } */
+}
+
+/* Large devices (desktops, 992px and up) */
+
+@media (min-width: 992px) {
+    h1 {
+        font-family: "Frank Ruhl Libre";
+        font-weight: 500;
+        font-size: 64px !important;
+    }
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+
+@media (min-width: 1200px) {
+    h1 {
+        font-family: "Frank Ruhl Libre";
+        font-weight: 500;
+        font-size: 64px !important;
+    }
+}
+
+.navbar-toggler-icon {
+    background-image: url('https://img.icons8.com/ios/50/000000/menu.png');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#mce-responses {
+    width: 100%;
+    text-align: center;
+}
+
+#mce-success-response {
+    background-color: #F4FCF8;
+    padding: 15px 30px;
+    border-radius: 24px;
+    display: inline-block;
+    margin: 30px auto 0 auto;
+    text-align: center;
+}
+
+#mce-error-response {
+    background-color: #ffe6e6;
+    padding: 15px 30px;
+    border-radius: 24px;
+    display: inline-block;
+    margin: 30px auto 0 auto;
+    text-align: center;
+}
+
+select {
+    -webkit-appearance: none;
+}

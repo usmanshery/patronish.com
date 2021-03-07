@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="275" height="1356" viewBox="0 0 275 1356">
+  <defs>
+    <filter id="Rectangle_205" x="0" y="0" width="275" height="249" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_205-2" x="0" y="273" width="275" height="249" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur-2"/>
+      <feFlood flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_205-3" x="0" y="546" width="275" height="249" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur-3"/>
+      <feFlood flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_205-4" x="0" y="1092" width="275" height="249" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur-4"/>
+      <feFlood flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_205-5" x="0" y="819" width="275" height="249" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur-5"/>
+      <feFlood flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_238" data-name="Group 238" transform="translate(-663 -2610)">
+    <g id="Group_199" data-name="Group 199" transform="translate(681 2628)">
+      <g id="Group_198" data-name="Group 198">
+        <g transform="matrix(1, 0, 0, 1, -18, -18)" filter="url(#Rectangle_205)">
+          <rect id="Rectangle_205-6" data-name="Rectangle 205" width="239" height="213" rx="6" transform="translate(18 18)" fill="#fff"/>
+        </g>
+      </g>
+      <image id="email-send-1" width="34.359" height="32.865" transform="translate(22.682 30.414)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC4AAAAsCAYAAAAacYo8AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAATqSURBVGhD1Zl7qFRVFIfPaJpolBcsswdGGWTRU8IMKpNCoucfSlAEQVZIQS8qCLP6owdkURQYQpERGBWJRUn0DqGyPyqS0uhNSS+D3tHr9n1z9x72nNnzOLeZy+0HH2fvtdY+s2bOPnuvc6Y2PDxc/J9Uq9Ume5gw0h3/IuG5cDfNb2HbuP7FSXQShzPhElioLWjHuEychPfmcBFcCLO0lbSxMPHxAKrBSfAE/AUay/wRjiuzJxlL0BBcDtsgTfARWBPa2my/FtqLsycbC9A8uB9+hZjw57AC9oRLg01uA+d7jB3KnnRQoClwPrwBMal/4Fk4CyaGuJUQ/VcH21Ghv7XejycdJGgOrILvQYPYvgPmJHHO87vAzt+wLPEtD/a19X509Bs0EVzK/DX9VTXKZvBXn5KJXwt2nNdLSv4Hg295vZ86+wGaCc5T56sGcW4+APPajHEKbYAYe3ImZmvw18/R5PwvoBPAlSCuAvIBuGIM5cYI2g1eBDtOn/mZmOnB75faqW4rB1UB7QrualtAg7gGuxa7Jtc3uHag3eFNsPMlHNombnGI2dSwpQG9gg6D1fATaJDtcBPskxtTxjh4H+x8CAfk4gRdH+JWNWxpQCeQVdk5sAk0RF6CJTApNy4HOhDiPfAuzMrFRdAzIXZpw5YG5ECz4Vb4BjTID2ClNjc3phPoSLDCs+NOOD0Xl4K+C/H7NmxpQMNYFJa7p8BTkC5lb4GFz7TcuG6g48EvbcdlcmouLgW5B9jY3mRv6hTFDLgGPgYN8js8BAvS2Kqg0yBu2Y/C5FxcGXRuGLO+yR6cC8DkTFKDmLxfYkY6YDQgPzwtlupbey+ge8K4a0v24rngEKeF08NpMiENHC2oXCx1XCLLoFjXLCzZi4+CQ7yUVmzHpkGjBbUUS1VAO4NXyrpll5KvmArnwSsQP0Teg6ug8lRBbYulKqBjwjneafE1dUbWVy/nV6BB/MaPgbtX1+mDOhZLVUCWCzbWtPjKhrqRegCs7Jzv6WPUZ3AjzG4zrmuxVAW0LpzrghZf2VAG7QXXgduyBonF/1KoL2uoa7FUFRSX5UNafGVDO5Dz9kR4GNJl013tTuhaLFUB7RHO9yO0TNGmTq8gy0yXOXdSDRGvxKLcmKogNywbz2f9OWMVkA+9X4QPEa/G7dC1BukEuhls3JL154xVQW+HD3k5HGUHXAE9be1lUNwYT8/6c8aqoJj4EeAViDepeIOdDT3vmMgiz7ltZ2Y2JmesCmoknthOhficKD4kH5eOawc6OIz5JOeXgb2t5eRPc/h6pFf8CUfDq7VabQMcVLe2lzumsk7JamCJk5zTw/rb5XJ/uAF+gTNgC/7V4BuBnOaH4+vh2KryJRgNqGmqIOuf+Gh2cRLnq7X7IO7GP4PPk00PJiier+0zQNZYleSDYuI+NNtwnW/dPIrCqfIk2BEftJeBdc40sDCzzml6aZSSNVYFpavKfvBb6He8GfWDN60d8TWHtZDtzbkxkayxKihN/PHQXpeLLYMsJbwf0sdFuTcXH8kaq4Ji4m44Hr0Je3q/EkG+/nC8G5eGjuVw1lgVFBOPT/ArcnG9gKyDFkHHDasv/wGxrJn44SO94lPwfYs1y8A0iHX8ykEnrfqd+AskvT60B6p+Je7rZJfAy+q9MVC/5rgbh68PvDnHQEXxLz9ObcpsoWn7AAAAAElFTkSuQmCC" style="isolation: isolate"/>
+      <text id="Invite" transform="translate(72 57)" fill="#27c17d" font-size="18" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" style="isolation: isolate"><tspan x="0" y="0">1. Invite</tspan></text>
+      <text id="Invite_customers_and_experts_via_email_SMS_or_social_media." data-name="Invite customers and experts via email, SMS, or social media." transform="translate(23 107)" font-size="14" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="14">Invite customers and </tspan><tspan x="0" y="30">experts via email, SMS, or </tspan><tspan x="0" y="46">social media.</tspan></text>
+    </g>
+    <g id="Group_207" data-name="Group 207" transform="translate(254 1778)">
+      <g id="Group_200" data-name="Group 200" transform="translate(427 1123)">
+        <g id="Group_198-2" data-name="Group 198" transform="translate(0)">
+          <g transform="matrix(1, 0, 0, 1, -18, -291)" filter="url(#Rectangle_205-2)">
+            <rect id="Rectangle_205-7" data-name="Rectangle 205" width="239" height="213" rx="6" transform="translate(18 291)" fill="#fff"/>
+          </g>
+        </g>
+        <text id="Invite-2" data-name="Invite" transform="translate(72 57)" fill="#27c17d" font-size="18" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" style="isolation: isolate"><tspan x="0" y="0">2. Capture</tspan></text>
+        <text id="Anywhere._Anytime._Any_device._Real_and_high_quality_user-generated_videos." data-name="Anywhere. Anytime. Any device. Real and high quality user-generated videos." transform="translate(23 107)" font-size="14" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="14">Anywhere. Anytime. Any </tspan><tspan x="0" y="30">device. Real and high </tspan><tspan x="0" y="46">quality user-generated </tspan><tspan x="0" y="62">videos.</tspan></text>
+      </g>
+      <path id="icons8-doorbell" d="M16.914,0A6.909,6.909,0,0,0,12.3,12.06V9.679a5.285,5.285,0,0,1-.768-2.765,5.377,5.377,0,1,1,10.754,0,5.285,5.285,0,0,1-.768,2.765V12.06A6.909,6.909,0,0,0,16.914,0Zm0,4.609a3.176,3.176,0,0,0-2.052.749,2.936,2.936,0,0,0-1.02,2.247V22.619a2.981,2.981,0,0,0-1.269.7,5.466,5.466,0,0,0-1.8,4.259c0,3.464,2.14,5.692,3.04,7.1a7.405,7.405,0,0,0,6.1,3.734H26.9a6.938,6.938,0,0,0,6.914-6.914V19.972A5.122,5.122,0,0,0,33.39,17.7a2.884,2.884,0,0,0-2.65-1.566,2.936,2.936,0,0,0-1.767.582,3.237,3.237,0,0,0-.5-1.089A2.877,2.877,0,0,0,26.132,14.6a3.059,3.059,0,0,0-2.031.747,2.952,2.952,0,0,0-2.578-1.515,2.917,2.917,0,0,0-1.536.461V7.682a3.036,3.036,0,0,0-1.013-2.308A3.14,3.14,0,0,0,16.914,4.609Zm0,1.536a1.671,1.671,0,0,1,1.052.387,1.4,1.4,0,0,1,.485,1.149V19.972q0,.038,0,.077a.759.759,0,0,0,.183.416q.025.029.053.056a.773.773,0,0,0,1.049.008q.028-.026.053-.056a.731.731,0,0,0,.176-.338q.009-.037.014-.075a.767.767,0,0,0,.006-.077s0-.007,0-.011V16.9a1.536,1.536,0,1,1,3.073,0v2.3q0,.038,0,.077a.762.762,0,0,0,.8.68q.038,0,.077-.006t.075-.015a.769.769,0,0,0,.578-.648q0-.038.006-.077s0-.007,0-.011V17.668a1.759,1.759,0,0,1,.32-1.074,1.369,1.369,0,0,1,1.217-.462,1.208,1.208,0,0,1,1.119.431,3.19,3.19,0,0,1,.417,1.874v1.536a.764.764,0,0,0,.18.5q.025.029.052.056a.779.779,0,0,0,.258.165q.035.014.072.024a.674.674,0,0,0,.206.028q.038,0,.077,0a.735.735,0,0,0,.419-.176q.029-.025.056-.052a.769.769,0,0,0,.051-.059q.024-.03.045-.062a.755.755,0,0,0,.122-.416,4.054,4.054,0,0,1,.269-1.6c.212-.437.43-.7,1.268-.7s1.056.264,1.268.7a4.054,4.054,0,0,1,.269,1.6V31.495A5.389,5.389,0,0,1,26.9,36.872H19.91A5.855,5.855,0,0,1,15.1,33.846c-1.067-1.666-2.8-3.434-2.8-6.268a3.77,3.77,0,0,1,1.269-3.1,3.287,3.287,0,0,1,1.221-.69.768.768,0,0,0,.582-.746V7.605a1.3,1.3,0,0,1,.477-1.076A1.721,1.721,0,0,1,16.914,6.145Z" transform="translate(447 1150.592)"/>
+    </g>
+    <g id="Group_206" data-name="Group 206" transform="translate(-13 2051)">
+      <g id="Group_201" data-name="Group 201" transform="translate(694 1123)">
+        <g id="Group_198-3" data-name="Group 198" transform="translate(0)">
+          <g transform="matrix(1, 0, 0, 1, -18, -564)" filter="url(#Rectangle_205-3)">
+            <rect id="Rectangle_205-8" data-name="Rectangle 205" width="239" height="213" rx="6" transform="translate(18 564)" fill="#fff"/>
+          </g>
+        </g>
+        <text id="Invite-3" data-name="Invite" transform="translate(77 57)" fill="#27c17d" font-size="18" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" style="isolation: isolate"><tspan x="0" y="0">3. Publish</tspan></text>
+        <text id="Two-click_process_creates_branded_and_beautiful_videos_ready_to_be_published." data-name="Two-click process
+creates branded and beautiful videos
+ready to be published." transform="translate(23 107)" font-size="14" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="14">Two-click process</tspan><tspan x="0" y="30">creates branded and </tspan><tspan x="0" y="46">beautiful videos</tspan><tspan x="0" y="62">ready to be published.</tspan></text>
+      </g>
+      <path id="icons8-upload-to-cloud" d="M22.813,4.531a10.282,10.282,0,0,0-9.243,5.925A5.416,5.416,0,0,0,10.5,9.4,5.47,5.47,0,0,0,5.064,14.61,7.548,7.548,0,0,0,7.6,29.287H14.16a.787.787,0,1,0,0-1.573H7.6A6.034,6.034,0,0,1,6,15.864a.786.786,0,0,0,.565-.787c0-.111,0-.166,0-.172A3.946,3.946,0,0,1,13.3,12.128a.787.787,0,0,0,1.278-.27A8.774,8.774,0,0,1,31.59,14.881a8.644,8.644,0,0,1-.074,1.082.787.787,0,0,0,.762.885h.049a5.433,5.433,0,0,1,0,10.866H25.173a.787.787,0,1,0,0,1.573h7.154a7.019,7.019,0,0,0,7.006-7.006,6.934,6.934,0,0,0-6.22-6.834c.012-.191.049-.369.049-.565A10.366,10.366,0,0,0,22.813,4.531ZM19.667,17.954l-.565.541-3.933,3.933A.8.8,0,0,0,16.3,23.559l2.581-2.581V34.793a.787.787,0,1,0,1.573,0V20.978l2.581,2.581a.8.8,0,0,0,1.131-1.131l-3.933-3.933Z" transform="translate(717 1153.891)"/>
+    </g>
+    <g id="Group_205" data-name="Group 205" transform="translate(-276 2597)">
+      <g id="Group_202" data-name="Group 202" transform="translate(957 1123)">
+        <g id="Group_198-4" data-name="Group 198" transform="translate(0)">
+          <g transform="matrix(1, 0, 0, 1, -18, -1110)" filter="url(#Rectangle_205-4)">
+            <rect id="Rectangle_205-9" data-name="Rectangle 205" width="239" height="213" rx="6" transform="translate(18 1110)" fill="#fff"/>
+          </g>
+        </g>
+        <text id="Invite-4" data-name="Invite" transform="translate(76 57)" fill="#27c17d" font-size="18" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" style="isolation: isolate"><tspan x="0" y="0">5. Embed</tspan></text>
+        <text id="Place_script_pop_ups_and_widgets_on_your_site_to_boost_conversions." data-name="Place script, pop ups, and widgets on your site to boost conversions." transform="translate(23 107)" font-size="14" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="14">Place script, pop ups, and </tspan><tspan x="0" y="30">widgets on your site to </tspan><tspan x="0" y="46">boost conversions.</tspan></text>
+      </g>
+      <path id="icons8-code_1_" data-name="icons8-code (1)" d="M1.98,3A1.991,1.991,0,0,0,0,4.98V32.04H33V4.98A1.991,1.991,0,0,0,31.02,3Zm0,1.32H31.02a.648.648,0,0,1,.66.66V6.96H1.32V4.98A.648.648,0,0,1,1.98,4.32ZM1.32,8.28H31.68V30.72H1.32ZM19.078,10.9A.769.769,0,0,0,19,10.92a.661.661,0,0,0-.474.413l-5.94,14.52a.666.666,0,1,0,1.238.5l5.94-14.52a.661.661,0,0,0-.681-.928Zm-8.559,3.96a.581.581,0,0,0-.062.021.649.649,0,0,0-.227.082L5.61,17.6a.66.66,0,0,0,0,1.155l4.62,2.64a.665.665,0,1,0,.66-1.155L7.281,18.18l3.609-2.062a.66.66,0,0,0-.371-1.258Zm11.8.021a.66.66,0,0,0-.206,1.237l3.609,2.063L22.11,20.243a.665.665,0,0,0,.66,1.155l4.62-2.64a.66.66,0,0,0,0-1.155l-4.62-2.64A.664.664,0,0,0,22.316,14.88Z" transform="translate(983 1156.96)"/>
+    </g>
+    <g id="Group_204" data-name="Group 204" transform="translate(-548 2324)">
+      <g id="Group_203" data-name="Group 203" transform="translate(1229 1123)">
+        <g id="Group_198-5" data-name="Group 198" transform="translate(0)">
+          <g transform="matrix(1, 0, 0, 1, -18, -837)" filter="url(#Rectangle_205-5)">
+            <rect id="Rectangle_205-10" data-name="Rectangle 205" width="239" height="213" rx="6" transform="translate(18 837)" fill="#fff"/>
+          </g>
+        </g>
+        <text id="Invite-5" data-name="Invite" transform="translate(69 57)" fill="#27c17d" font-size="18" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" style="isolation: isolate"><tspan x="0" y="0">4. Share</tspan></text>
+        <text id="One_click_share_across_social_media_blogs_and_newsletters." data-name="One click share across social media, blogs, and newsletters." transform="translate(23 107)" font-size="14" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="14">One click share across social </tspan><tspan x="0" y="30">media, blogs, and </tspan><tspan x="0" y="46">newsletters.</tspan></text>
+      </g>
+      <path id="icons8-link" d="M26.063,4a5.977,5.977,0,0,0-4.254,1.763L18.466,9.106a5.973,5.973,0,0,0-1.721,3.539,6.193,6.193,0,0,0-.042.716,5.989,5.989,0,0,0,.594,2.6l1.02-1.021a4.662,4.662,0,0,1,1.094-4.885l3.343-3.343a4.68,4.68,0,1,1,6.618,6.618l-3.343,3.343a4.662,4.662,0,0,1-4.885,1.094l-1.021,1.02a6,6,0,0,0,6.852-1.169l3.343-3.343A6.017,6.017,0,0,0,26.063,4Zm-4.024,9.353a.669.669,0,0,0-.46.2l-8.023,8.023a.669.669,0,1,0,.945.945L22.524,14.5a.669.669,0,0,0-.486-1.148ZM13.36,16.7a5.977,5.977,0,0,0-4.254,1.763L5.763,21.809a5.969,5.969,0,0,0-1.751,3.869Q4,25.869,4,26.063a6.017,6.017,0,0,0,10.271,4.254l3.343-3.343a6,6,0,0,0,1.169-6.852l-1.02,1.021a4.662,4.662,0,0,1-1.094,4.885l-3.343,3.343a4.68,4.68,0,1,1-6.618-6.618l3.343-3.343a4.662,4.662,0,0,1,4.885-1.094l1.021-1.02A5.989,5.989,0,0,0,13.36,16.7Z" transform="translate(1253.96 1155.96)"/>
+    </g>
+  </g>
+</svg>
